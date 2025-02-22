@@ -56,6 +56,14 @@ python3 -m demo
 - **Untested on complex cases** - Performance may degrade on noisy, low-resolution, or damaged images.
   boxes.
 
+## Acknowledgement
+
+This work is loosely based on the ideas described in these papers:
+
+> B. Su, S. Lu, U. Pal and C. L. Tan, "An Effective Staff Detection and Removal Technique for Musical Documents," 2012 10th IAPR International Workshop on Document Analysis Systems, Gold Coast, QLD, Australia, 2012, pp. 160-164, doi: 10.1109/DAS.2012.16. available online [https://ieeexplore.ieee.org/document/6195355](https://ieeexplore.ieee.org/document/6195355)
+
+> G. Chen, L. Zhang, W. Zhang and Q. Wang, "Detecting the Staff-Lines of Musical Score with Hough Transform and Mathematical Morphology," 2010 International Conference on Multimedia Technology, Ningbo, China, 2010, pp. 1-4, doi: 10.1109/ICMULT.2010.5631269. available online [https://ieeexplore.ieee.org/document/5631269](https://ieeexplore.ieee.org/document/5631269)
+
 ## Contact
 
 <img src="https://ufal.mff.cuni.cz/~hajicj/2024/images/logo-large.png" width="600px" alt="PMCG logo">
