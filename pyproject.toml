@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stalix"
+authors = [
+    { name = "Vojtech Dvorak", email = "dvorak@ufal.mff.cuni.cz" },
+]
+dependencies = [
+    "numpy",
+    "opencv-python",
+    "scipy",
+]
+description = "Lightweight staff line extractor"
+readme = "README.md"
+requires-python = ">=3.11"
+version = "1.0.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/v-dvorak/stalix"
+Source = "https://github.com/v-dvorak/stalix"
+Issues = "https://github.com/v-dvorak/stalix/issues"
+
+[project.optional-dependencies]
+viz = [
+    "matplotlib",
+]
+
+[tool.setuptools.packages.find]
+include = ["stalix"]
