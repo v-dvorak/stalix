@@ -50,11 +50,10 @@ python3 -m demo
 ## **Limitations**
 
 - **Not designed for full-page staff detection** – StaLiX is intended to refine **pre-detected** bounding boxes rather
-  than process entire sheet music pages. Should be used alongside an object detection model or other methods that
-  provide reasonably precise bounding.
+  than process entire sheet music pages. It should be used alongside an object detection model or other methods that
+  provide reasonably precise bounding boxes.
 
 - **Untested on complex cases** - Performance may degrade on noisy, low-resolution, or damaged images.
-  boxes.
 
 ## Acknowledgement
 
