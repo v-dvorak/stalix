@@ -68,6 +68,6 @@ This work is loosely based on the ideas described in these papers:
 <img src="https://ufal.mff.cuni.cz/~hajicj/2024/images/logo-large.png" width="600px" alt="PMCG logo">
 
 Developed and maintained
-by [Vojtěch Dvořák](https://github.com/v-dvorak) ([dvorak@ufal.mff.cuni.cz](mailto:mayer@ufal.mff.cuni.cz)) as part of
+by [Vojtěch Dvořák](https://github.com/v-dvorak) ([dvorak@ufal.mff.cuni.cz](mailto:dvorak@ufal.mff.cuni.cz)) as part of
 the [Prague Music Computing Group](https://ufal.mff.cuni.cz/pmcg) lead
 by [Jan Hajič jr.](https://ufal.mff.cuni.cz/jan-hajic-jr) ([hajicj@ufal.mff.cuni.cz](mailto:hajicj@ufal.mff.cuni.cz)).
